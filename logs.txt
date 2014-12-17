@@ -1,0 +1,29 @@
+commit cd276b9b31d30e3d3c2b49984e42aa4caac2d7bc
+Author: José Mariñas <jamcc17@gmail.com>
+Date:   Wed Dec 17 08:49:50 2014 -0500
+
+    Agregado descripcion
+
+commit 95fde38f7172834d90a6e1fca610cca0f37b94a9
+Author: José Mariñas <jamcc17@gmail.com>
+Date:   Wed Dec 17 08:48:28 2014 -0500
+
+    Twitter configurado
+
+commit 101a8ba25379563d5506c4663ecdc70eac37119c
+Author: José Mariñas <jamcc17@gmail.com>
+Date:   Wed Dec 17 08:47:16 2014 -0500
+
+    Perfil web configurado
+
+commit 87776ceabf9fa538664f6398698714e3e4562672
+Author: José Mariñas <jamcc17@gmail.com>
+Date:   Wed Dec 17 08:44:27 2014 -0500
+
+    Nombre configurado
+
+commit 4c5759f188b7e3974b2cd913f6337a6079bcd126
+Author: José Mariñas <jamcc17@gmail.com>
+Date:   Wed Dec 17 08:40:24 2014 -0500
+
+    Proyecto inicial
